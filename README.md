@@ -50,4 +50,5 @@ Vous devez rendre pour ce test les documents / fichiers suivants:
 - la documentation de votre application avec captures d'écran;
 - les codes sources dans un fichier ZIP;
 - les instructions d'installation.
+
 Ces documents doivent être envoyés à l'adresse email suivante : thierry.randriantiana@vivetic-group.com
