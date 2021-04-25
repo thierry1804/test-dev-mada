@@ -41,6 +41,7 @@ Si un collaborateur a utilisé plus d'une carte RFID, les afficher séparées pa
 - L'heure de dernière sortie
 - Le nombre de pauses
 - Le volume des pauses (en heure)
+
 Soyez imaginatif pour la présentation de ces informations.
 Faites attention sur le fait qu'il y a des collaborateurs qui entrent le soir pour sortir le matin. Ce qui veut dire que l'heure de première entrée peut ne pas se trouver sur la même date que l'heure de la dernière sortie.
 ## Technologie
