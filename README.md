@@ -1,3 +1,4 @@
+# URL de la partie théorique : https://docs.google.com/forms/d/e/1FAIpQLSdSqHkaevIBLqGXX4et34PeZoNX2EE2M2hQy-qZxbDHWcsbqg/viewform?usp=sf_link
 # Durée : 2,5 jours ou 20h (8h x 2 + 4h)
 # Données
 Vous devez ajouter dans votre base de données locale le SQL contenu dans _log_portiques.sql_
