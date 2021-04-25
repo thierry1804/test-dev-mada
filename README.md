@@ -1,4 +1,4 @@
-# Durée : 2 jours ou 16h (8h x 2)
+# Durée : 2,5 jours ou 20h (8h x 2 + 4h)
 # Données
 Vous devez ajouter dans votre base de données locale le SQL contenu dans _log_portiques.sql_
 ## Structure
@@ -43,3 +43,11 @@ Si un collaborateur a utilisé plus d'une carte RFID, les afficher séparées pa
 - Le volume des pauses (en heure)
 Soyez imaginatif pour la présentation de ces informations.
 Faites attention sur le fait qu'il y a des collaborateurs qui entrent le soir pour sortir le matin. Ce qui veut dire que l'heure de première entrée peut ne pas se trouver sur la même date que l'heure de la dernière sortie.
+## Technologie
+Vous êtes totalement libre de choisir le stack technologique que vous voulez utiliser mais la seule recommandée est l'utilisation de MySQL pour le serveur de base de données.
+## Livrable
+Vous devez rendre pour ce test les documents / fichiers suivants:
+- la documentation de votre application avec captures d'écran;
+- les codes sources dans un fichier ZIP;
+- les instructions d'installation.
+Ces documents doivent être envoyés à l'adresse email suivante : thierry.randriantiana@vivetic-group.com
